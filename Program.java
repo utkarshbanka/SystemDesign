@@ -11,5 +11,10 @@ public class Program {
         Ece es = new Ece();
         es.subdetails();
         es.Departdetails();
+
+        Department as = new Ece();
+        as.Departdetails();
+        as.subdetails();
+
     }
 }
