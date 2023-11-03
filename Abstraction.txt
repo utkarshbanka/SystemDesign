@@ -1,2 +1,65 @@
 Here we learn about the System Design topic first we no about abstraction;
 
+Previously we will Discuss About of Inheritance;
+
+Qucik Revison of The Inheritance;
+
+
+Abstraction;
+
+Topics to Cover later on 
+
+  ----Abstraction
+  ---- Abstract Class
+  ---- Polymorphism
+ ----- Design Principle
+  ----  Solid principle
+   
+
+Abstraction
+============
+  In Collage we have Researh paper and in last page we mention important detail of your project mention here important
+  details;
+
+
+Create Solution for your Customer
+--------->
+Working for the company---
+
+Hiding the all the unnecessary details;
+
+----> What are the ways to make the customere happy ;
+
+ Simplicity;
+ Easy to use;
+ security;
+
+  Advantage of Abstraction
+  
+Simplicity easy to use
+Security;
+We Can upgrade or improve the implementation without impacting  the users
+
+
+  Suppose we are using ipad ios 15 later new verson come ios 15.5 
+  see here we are having same device and upgrade the software not the device ;
+  upgrading the system software
+
+Ways to achieve Abstraction
+
+       Abstraction
+ Abstract class
+ Interface;
+
+  syntax for abstract class 
+   public abstract class A {ss
+
+      public void details()
+{
+   funtion with declare and declarition
+}
+
+  public abstract void funtionname(); abstract method;
+  
+
+}
