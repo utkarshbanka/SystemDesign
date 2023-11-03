@@ -60,6 +60,109 @@ Ways to achieve Abstraction
 }
 
   public abstract void funtionname(); abstract method;
+
+
+
+
+
+purely abstract clas =
+
+ public abstract class A{
+
+  public abstract void f1();
+  public abstract void f2();
+
+purely abstract behave like a interface but not a interface;
+
+
+Question: When to prefer abstract class when to prefer interface 
+
+
+
+public abstract class A {
+
+ constructor()
+
+{
+
+}
+
+function declaration;
+function with definition;
+
+
+
+}
+
+}
   
 
 }
+
+Employee {  Employee Details compute salary)  Abstract method for details and salary compute
+
+1 Developer Bp, Bonus, ot
+2 Tester bp,ot,
+
+Regular class vs abstract class;
+ Abstract clas with force the base class to provide implemention for the abstract method 
+
+Regular class - you will have the option to impliment or not implement;
+
+
+Note - Abstract class with no abstract methods will behave like a regular class
+
+
+
+Abstract class vs Interface;
+
+
+Interface Employee {
+
+ function1();  ->Calculate bonus
+  function(); Is Emp of Month;
+}
+
+
+Note - When you want only function declartion then prefer interface;
+
+
+ IEmp 
+-----------------------
+    
+                    ---------------------GetDetails();
+                 
+                    ---------------------GetSalary();
+
+
+
+
+
+
+------------------------
+
+
+
+Students                                      Employee();
+-------GetDetails();                              split it into 2 parts;                    
+
+
+2) ISalary ---------------------------- getSalary();
+
+
+
+
+
+Note:
+-----
+------ We Can extend only one abstract class, even it is purely abstract class;
+      but we can have one or more implement;
+     
+
+   Great Best Deffrence between Inteface and abastract are we can provide the constructor inside the abstract class but 
+  we can not provide in interface ;
+
+
+
+
+
