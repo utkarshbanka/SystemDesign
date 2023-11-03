@@ -16,5 +16,13 @@ public class Program {
         as.Departdetails();
         as.subdetails();
 
+        System.out.println("Method Ovreloding example");
+        Sum s = new Sum();
+        s.add(1,1);
+        s.add(1.f,1);
+        s.add(1,1,1);
+        s.add(1.f,1.f);
+
+
     }
 }

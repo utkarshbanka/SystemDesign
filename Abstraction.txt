@@ -165,4 +165,54 @@ Note:
 
 
 
+Polymorphism:===============================;
+poly  - Many;
+One object having deffrent behaviour is know as Polymorphism;
+
+--------------- Student
+
+-----------------Brother
+
+Iam(Object) --------------- Son
+
+---------------- Employee
+
+
+-----------------Teacher;
+
+Static Polymorphism;
+
+Dynamic Polymorphism;
+
+
+Static: Compile Time;
+Runtime : Dynamic Polymorphism;
+
+
+Static compile time polymorphism;
+At the compile time we we can achive compile time polymorphism using method overloading;
+
+Dyamic Polymorphism;
+
+public int 
+
+
+
+
+Based On Inheritance ;
+
+
+Dog d = new Animal()--------------
+
+
+
+Method Overriding;
+
+Animals  
+Dog               Cat;
+eatmethod()       eatmethod();
+
+Dog is eating       Cat is eating 
+
+
 
