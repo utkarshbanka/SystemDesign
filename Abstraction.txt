@@ -216,3 +216,20 @@ Dog is eating       Cat is eating
 
 
 
+Deffernce between Mehod Overloading and Method Overriding;
+
+
+Method Overloading;                            Method Overriding
+It is the compile time polymorpshims            It is a Runtime polymorphism;
+It occur within the class                       It is perform in two classe with the help of Inheritance;
+It helps to increase the readability of the     It is used to provide specific implemention to method which already 
+program                                          present in the parent class;
+Method having same name but diffrent signature    Method having same name and same signature;
+Return type can or cannot change                  Return type must be same;
+private and final method can be overlaoded        private and final method cannot be overridin
+Argument list must be differnet                    Argument list must be same
+
+
+Static Keyword================
+Static variable static method static constructor static class;
+

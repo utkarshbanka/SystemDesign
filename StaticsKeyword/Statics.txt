@@ -1,0 +1,72 @@
+Static Keyword================
+Static variable static method static constructor static
+
+
+Static Variable ;
+
+When a Varible is declared as static then a single copy of the varibale is crated and sharerd
+among all objects at the clas level
+
+If you want to acces then then do it with the help of class
+name,they do not requre object for access;
+
+Eg for a non static class Regualar class
+
+ progaram obj = new Program();
+   sout(obj.name);
+   but for the static varible if your class name is program and;
+
+   Program.staticvaible;
+
+
+   Static method ;
+   Access with the name of the class;
+    can acess static and non static fields
+
+  Static Modifer ensures implmention is the same accros all class instances
+
+
+
+ Syntax ---- for a variable;
+ public static int a = 5;
+ for a static method =
+ public static void manin(String[] args);
+
+ public static void print()
+ {
+
+ }
+
+ Static Constructor// Interview Question Related to this
+ What you no ----- Default constructor, Parameter Constructor ,Copy constructor,
+ private Constructor---InDetails when we read about singlaton class
+ Static Constructor------
+
+ They are given Some Sceanario
+
+
+ public static class a {
+
+   Static a()
+   {
+
+   }
+   if  your clas haave  both default and satic constructor then static will call first
+   and after that default will get executed;
+   but a static constructor is not allowed in java // but it is allowed in the c# csharp;
+
+
+  Static Class;
+  --------
+  public static It is not allowed to create object of static class;
+  outer class.staticclass  obj = new Outclaas.staticlass();
+
+ }
+ Note : Static class may be Instantiated without unstantiating its outer class;
+
+
+
+
+
+
+
