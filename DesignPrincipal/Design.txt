@@ -1,0 +1,25 @@
+Design Principles;
+
+
+---- Easy
+----Scalable;
+----Better Customer experiance;
+----Customizable;
+
+
+Differnt type of Design principal we have;
+Dry-----> Do not repeat yourSelf;
+      This principal states that each small piece of code may only occur exactly once in
+      Entire Implementaion;
+
+     This helps to provide scalbe maintainableand reusable code,
+ Kiss ----> Keep it simple stupid or Keep it simple short
+ This principal states that try to keep each small piece of code simple to avoid unnecesary complexities;
+ Always write your code which is easy to debug
+ This helps us to write easy maintable code;
+
+
+ 3)Yagni ---> You can't gonna need it;
+       This principal says that this always implement things when you actually need them and never implement
+        things before you need them;
+

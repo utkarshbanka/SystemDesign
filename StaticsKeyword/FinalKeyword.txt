@@ -1,0 +1,9 @@
+Final Keyword;
+final variable;
+final method;
+final class;
+-----------------------
+To Create a Constant variable  = varibale;
+to prevent method overding we use final keyword
+final class if you want to stop Inheritance of the class then we use the final keyword;
+

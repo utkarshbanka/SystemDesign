@@ -1,0 +1,59 @@
+Solid Principal-----
+
+Solid Stands for S=0=L=I=D
+
+S= Single Responsiblity Principal
+O = Open Close Principal
+L Liscov Subsituation Principa
+I- Interface Segrgation principal
+D-Dependency Inveinsion Principal
+
+
+Single Responsiblity principal
+One Class Should do only one thing;
+To Reduce Confission
+To make it loosely coupled
+To make it more specialized;
+
+
+                     Doctors
+General Physiiana                                Specialist
+
+
+------------------------------------------------------
+
+S--->Sigle Responsiblity principal ;
+        One class should be doing only one things
+
+        Mouse and Keyword ---------- usb; in the same ;
+        if one usb i lost then mouse and keyword are useless;
+        so instead of buying this buy mouse and keyword seprate
+
+       So That why insteed of write one code in one class one class have one responsbiley
+
+
+
+
+                            Relationship;
+
+         -----------------------     ----------------------------------
+         Good                                              BAd
+
+             ----------------------But it is Importnant-----------------
+
+
+             Realtioship between the objects and that is also going to be important
+             Relationshi[ between object is called coupling
+
+
+             Copupling is two type
+             Loose Coupling
+             Tight Coupling
+
+
+             Class  a     {          Class B       {
+
+             ====code
+                B.sleep();
+             }
+
